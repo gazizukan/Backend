@@ -19,16 +19,16 @@ django
   
   django-admin.exe startproject mysite . -> windows
   
-  python manage.py migrate
+  python3 manage.py migrate
   
-  python manage.py createsuperuser yourname
+  python3 manage.py createsuperuser yourname
   
-  python manage.py runserver
+  python3 manage.py runserver
   
-  python manage.py startapp api
+  python3 manage.py startapp api
   
   pip install django-cors-headers
   
   pip install djangorestframework
   
-  python manage.py makemigrations blog-> for models
+  python3 manage.py makemigrations blog-> for models
