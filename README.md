@@ -12,6 +12,7 @@ django
  https://tutorial.djangogirls.org/ru/django_installation/
  
   pip install Django
+  
   ...\> pip install Django ->windows
  
   django-admin startproject mysite . ->create django project
