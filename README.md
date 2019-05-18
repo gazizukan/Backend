@@ -24,4 +24,4 @@ django
   
   python manage.py startapp api
   
-  python manage.py makemigrations blog->-> for models
+  python manage.py makemigrations blog-> for models
