@@ -21,6 +21,8 @@ django
   
   python manage.py migrate
   
+  python manage.py createsuperuser yourname
+  
   python manage.py runserver
   
   python manage.py startapp api
