@@ -24,4 +24,8 @@ django
   
   python manage.py startapp api
   
+  pip install django-cors-headers
+  
+  pip install djangorestframework
+  
   python manage.py makemigrations blog-> for models
